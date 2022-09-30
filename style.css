@@ -708,6 +708,12 @@ footer .copyright{
     z-index: -9;
 }
 
+/*-------------------------------- ABOUT PAGE -----------------------------------------*/
+
+#page-header.about-header {
+    background-image: url("img/about/banner.png");
+}
+
 
 /*-------------------------------- START MEDIA QUERY -----------------------------------------*/
 
